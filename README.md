@@ -14,7 +14,7 @@ A better shape to use is a [Superellipse](https://en.wikipedia.org/wiki/Superell
 
 ## Coracle Rectangle
 
-Coracle Rectangle is a superellipse implementation where the corners are calculated using the shortest rectangle side for both vertical and horizontal curves. Scroll to the bottom of this readme to see why this is necessary. The class uses the same object syntax as the Playdate SDK which in turn is derived from [replayism.com/code/barebones-lua-class/](http://replayism.com/code/barebones-lua-class/) but should be easily adaptable to whatever Lua object system you use.
+Coracle Rectangle is a superellipse implementation where the corners are calculated using the shortest rectangle side for both vertical and horizontal curves. Scroll to the bottom of this readme to see why this is necessary. The class uses the same object syntax as the Playdate SDK which in turn is derived from 'replayism.com/code/barebones-lua-class' (now offline) but should be easily adaptable to whatever Lua object system you use.
 
 ![Screenshot](./readme_assets/screenshot.png)
 Sourcecode for this example is at [main.lua](main.lua)
